@@ -24,4 +24,8 @@ I accomplished the design phase by extending it beyond the initial design for ad
 ## May 21, 2024:
 Significant progress was made in establishing connection to live port the project. i learn function and control structure of Debugging Tool and techniques.
 ## May 22, 2024:
-i focused on DOM manipulation and learn what exactly is DOM manipulation and it's technique. i also learn DOM manipulation using javascript events and event listener.
+I focused on DOM manipulation and learn what exactly is DOM manipulation and it's technique. i also learn DOM manipulation using javascript events and event listener.
+## May 23, 2024:
+I effectively integrated registration and login features, enabling users to securely establish accounts and utilize the platform. Rigorous testing and adjustments guaranteed the presence of accurate authentication and authorization systems. Additionally, I incorporated a Google Login option for users via javascript to enhance the authentication process for user logins.
+## May 24, 2024:
+on this day i finally created one interacting web page and introduced to Jquarries and all. finally i deploy the web page on web browser and introduced to version control to github and Git
