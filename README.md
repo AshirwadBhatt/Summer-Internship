@@ -29,3 +29,14 @@ I focused on DOM manipulation and learn what exactly is DOM manipulation and it'
 I effectively integrated registration and login features, enabling users to securely establish accounts and utilize the platform. Rigorous testing and adjustments guaranteed the presence of accurate authentication and authorization systems. Additionally, I incorporated a Google Login option for users via javascript to enhance the authentication process for user logins.
 ## May 24, 2024:
 on this day i finally created one interacting web page and introduced to Jquarries and all. finally i deploy the web page on web browser and introduced to version control to github and Git
+# 📅 Week-3
+## May 27, 2024:
+I intensified their focus on frontend development, particularly the Internship and Job components. They emphasized user experience and functionality, exploring advanced concepts of React components and hooks to elevate the frontend capabilities.
+## May 28, 2024:
+Backend development involves creating the server-side logic and databases that power websites and applications. It handles user authentication, database interactions, and server requests. Common server-side programming languages include PHP, Python, Ruby, and Node.js, each offering unique strengths in scalability, performance, and ease of use for different applications. These languages enable developers to build robust, dynamic backend systems that support the functionality and responsiveness users expect from modern web applications.
+## May 29, 2024:
+My focus was on thorough testing and debugging of the Internship and Job components, resolving any issues related to performance or display. Additionally, I explored effective strategies for managing asynchronous operations in JavaScript components to enhance data flow efficiency.
+## May 30, 2024:
+The project's frontend architecture underwent a thorough review to guarantee modularity, reusability, and adherence to coding standards. We delved into methods for improving the rendering performance of CSS components in order to boost the overall responsiveness of the application.
+## May 31, 2024:
+I worked closely to smoothly incorporate newly developed components into the current project structure. The project was carefully reviewed to pinpoint areas for improvement and scalability in order to boost the project's effectiveness.
