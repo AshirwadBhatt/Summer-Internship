@@ -40,3 +40,14 @@ My focus was on thorough testing and debugging of the Internship and Job compone
 The project's frontend architecture underwent a thorough review to guarantee modularity, reusability, and adherence to coding standards. We delved into methods for improving the rendering performance of CSS components in order to boost the overall responsiveness of the application.
 ## May 31, 2024:
 I worked closely to smoothly incorporate newly developed components into the current project structure. The project was carefully reviewed to pinpoint areas for improvement and scalability in order to boost the project's effectiveness.
+# 📅 Week-4
+## June 3, 2024:
+Today has been quite productive as we focused on familiarizing ourselves with Object-Relational Mapping (ORM) tools. I ensured that all configurations were set up correctly to effectively manage the data, and we also delved into learning about web frameworks.
+## June 4, 2024:
+Today, our main objective was to inject vitality into our portal by incorporating placeholder data into the database. This information plays a crucial role in demonstrating the appearance of job and internship postings on the portal. Additionally, we have integrated a filtering feature to facilitate users in efficiently browsing through the various listings.
+## June 5, 2024:
+Experience with basic routing and URL handling involves efficiently mapping URLs to backend functionality, ensuring smooth navigation and data retrieval for users. Templating and rendering dynamic content skills enable developers to create responsive and engaging web interfaces that adapt to user inputs and database changes seamlessly.
+## June 6, 2024:
+Experience with user authentication and authorization involves implementing secure login systems, managing user sessions, and defining access controls to ensure data privacy and application security. Building a web application with a framework allows developers to leverage pre-built components and best practices, streamlining development while ensuring scalability and maintainability of the application.
+## June 7, 2024:
+We conducted user acceptance testing to gather valuable feedback on the job and internship posting features. Addressing usability concerns and making necessary enhancements based on this feedback is crucial for delivering a user-friendly experience.
