@@ -18,3 +18,10 @@ I continued to work on the home page design, integrating feedback to improve the
 ## May 18, 2024:
 I concentrated on integrating responsiveness into the design of the homepage, guaranteeing that it would accommodate different screen sizes and devices. This was a critical step in delivering a smooth user experience across various platforms. Furthermore, I worked with my mentor to uphold uniformity in code style, design patterns, and the overall alignment of the project. The close collaboration with my mentor offered valuable perspectives and helped to confirm that we were making progress in the right direction.
 #### The past week was incredibly productive, laying a solid groundwork for the project's upcoming growth. Every day presented fresh challenges and chances for learning, resulting in an engaging and rewarding experience.
+# 📅 Week 2
+## May 20, 2024:
+I accomplished the design phase by extending it beyond the initial design for additional pages. This ensured a coherent and user-friendly experience for the platform. They also enriched the navigation bar with critical links and buttons such as user registration and login options.
+## May 21, 2024:
+Significant progress was made in establishing connection to live port the project. i learn function and control structure of Debugging Tool and techniques.
+## May 22, 2024:
+i focused on DOM manipulation and learn what exactly is DOM manipulation and it's technique. i also learn DOM manipulation using javascript events and event listener.
