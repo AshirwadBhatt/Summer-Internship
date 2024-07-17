@@ -51,3 +51,14 @@ Experience with basic routing and URL handling involves efficiently mapping URLs
 Experience with user authentication and authorization involves implementing secure login systems, managing user sessions, and defining access controls to ensure data privacy and application security. Building a web application with a framework allows developers to leverage pre-built components and best practices, streamlining development while ensuring scalability and maintainability of the application.
 ## June 7, 2024:
 We conducted user acceptance testing to gather valuable feedback on the job and internship posting features. Addressing usability concerns and making necessary enhancements based on this feedback is crucial for delivering a user-friendly experience.
+# 📅 Week-5
+## June 10, 2024:
+Introduction to APIs and web services involves understanding how applications communicate and share data across networks. RESTful API design principles emphasize using HTTP methods to create, read, update, and delete resources via standardized endpoints, facilitating efficient and scalable interactions between clients and servers while maintaining statelessness and flexibility.
+## June 11, 2024:
+Building a simple API with a framework typically involves defining routes, handlers, and database interactions using tools like Express.js for Node.js or Flask for Python. These frameworks simplify the process of creating endpoints that respond to HTTP requests, enabling developers to structure and manage API logic efficiently.
+## June 12, 2024:
+Front-end frameworks like React, Angular, and Vue.js require the use of organized libraries and tools to effectively create interactive user interfaces. The process of establishing a development environment for these frameworks usually includes the installation of Node.js, the use of package managers like npm or yarn to handle dependencies, and the configuration of build tools such as Webpack or Babel to compile and bundle code. This setup allows developers to create modular, reusable components and utilize state management libraries to build strong and responsive front-end applications.
+## June 13, 2024:
+In component-based architecture, components are modular units that encapsulate both UI elements and logic, promoting reusability and maintainability. Props facilitate communication between components by passing data from parent to child components, enabling dynamic content rendering and efficient data flow management within applications.
+## June 14, 2024:
+Building a web application with a front-end framework such as React, Angular, or Vue.js involves structuring the user interface using reusable components, managing state with frameworks like Redux or Vuex, and fetching data from APIs to populate dynamic content. 
