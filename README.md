@@ -72,3 +72,5 @@ Building a responsive and accessible web application involves designing layouts 
 ## June 19, 2024:
 Responsive design techniques for mobile devices involve using CSS media queries to adjust layout, font sizes, and element spacing based on the device's screen size and orientation. Implementing fluid grids and flexible images ensures that content scales proportionally to fit different screen dimensions, optimizing user experience across smartphones and tablets. These techniques prioritize usability and readability, enhancing navigation and interaction on mobile platforms.
 ### → My 6-week internship training has been a valuable learning experience, thanks to the guidance of my mentors and the support of my colleagues. I encountered various challenges while implementing industry practices, but my mentors provided me with the necessary guidance to overcome them. As I was learning new concepts throughout the internship, there are still several limitations to my project, and there are many tasks left for me to complete. I am currently working on the tasks assigned to me.
+# Contact me through :
+## Mail : (ashirwadbhatt73@gmail.com || 22it007@charusat.edu.in)
